@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matt Frosst :wave:</h1>
-<h3 align="center">Computational Astrophysicist :rocket: | Scientific Software Dev :satellite: | Simulation Research :abacus: </h3>
+<h3 align="center">Computational Astrophysicist :rocket: | Scientific Software :satellite: | Simulation Research :abacus: </h3>
 
 I’m a computational astrophysicist and senior software developer. I received my PhD from the International Centre for Radio Astronomy Research at the University of Western Australia, where I'm still working to develop scientific software for radio telescopes.
 
